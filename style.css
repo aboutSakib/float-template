@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+img {
+  max-width: 100%;
+}
+.heading {
+  text-align: center;
+}
+.container {
+  width: 1040px;
+  margin: 0 auto;
+}
+p{
+  text-align: justify;
+}
